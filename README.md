@@ -1,69 +1,128 @@
-# Hi 👋, I'm Pragati More
+<div align="center">
 
-### 🚀 Full Stack Developer | Open Source Contributor | Computer Engineering Student
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pragati%20More&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=18"/>
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Building+Full+Stack+Apps+%F0%9F%9A%80;Learning+System+Design+%26+Architecture+%F0%9F%A7%A0;Open+Source+Contributor+%40+GSSoC+2026+%F0%9F%8C%9F;Exploring+AI+%2B+FinTech+Innovations+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pragatimore14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatimore14)
+[![GitHub](https://img.shields.io/badge/GitHub-Pragzh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pragzh)
+[![Email](https://img.shields.io/badge/Email-pragatimore543%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragatimore543@gmail.com)
+[![GSSoC](https://img.shields.io/badge/GSSoC-2026_Contributor-FF6B35?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Pragzh)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💻 Full Stack Developer skilled in React.js, Node.js, MongoDB & PostgreSQL
-- 🌱 Currently learning System Design & Advanced Backend Development
-- 🏆 Open Source Contributor at GSSoC 2026
-- 💡 Interested in AI + FinTech Applications
-- 📍 Mumbai, Maharashtra
+```javascript
+const pragati = {
+  location: "Mumbai, Maharashtra 🇮🇳",
+  role: "Full Stack Developer & CS Engineering Student",
+  currentlyLearning: ["System Design", "Advanced Backend", "AI/ML Integration"],
+  openSource: "GSSoC 2026 Contributor 🏆",
+  interests: ["AI + FinTech", "Scalable Systems", "Open Source"],
+  dsaSolved: "150+ problems and counting 💪",
+  goal: "Build products that make a real difference",
+  funFact: "I debug with console.log and I'm not ashamed 😄"
+};
+```
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,mysql" />
-</p>
+<div align="center">
 
-### Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</p>
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
+### ⚡ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📈 Coding & Open Source
-
-- ✅ Solved 150+ DSA Problems
-- ✅ Active Open Source Contributor
-- ✅ Participating in GSSoC 2026
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pragzh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragzh&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Pragzh&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
 
-
-<img src="https://streak-stats.demolab.com?user=Pragzh&theme=tokyonight" />
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/Pragzh
-- LinkedIn: www.linkedin.com/in/pragatimore14
-- Email: pragatimore543@gmail.com
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragzh&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
 
 ---
 
-⭐ Learning, Building & Growing through Open Source and Development
+## 🏆 Achievements
+
+<div align="center">
+
+|  | Achievement |
+|---|---|
+| 🧩 | **150+ DSA Problems Solved** |
+| 🌟 | **GSSoC 2026 Open Source Contributor** |
+| 🔭 | **Actively Building Full Stack Projects** |
+| 📚 | **Mastering System Design & Backend Architecture** |
+| 🤖 | **Exploring AI + FinTech Applications** |
+
+</div>
+
+---
+
+## 🌐 Open Source @ GSSoC 2026
+
+<div align="center">
+
+![GSSoC Banner](https://img.shields.io/badge/GirlScript%20Summer%20of%20Code-2026-orange?style=for-the-badge&logo=git&logoColor=white)
+
+> *Actively contributing to open source projects, collaborating with developers worldwide, and building meaningful software together.*
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Amazing!
+
+*"Code is not just syntax — it's a story waiting to be told."*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatimore14)
+[![GitHub Follow](https://img.shields.io/github/followers/Pragzh?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Follow)](https://github.com/Pragzh)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pragzh&color=6E57F7&style=for-the-badge&label=Profile+Views)
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
