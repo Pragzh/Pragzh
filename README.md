@@ -20,20 +20,28 @@
 
 ## 👩‍💻 About Me
 
-```javascript
-const pragati = {
-  location: "Mumbai, Maharashtra 🇮🇳",
-  role: "Full Stack Developer & CS Engineering Student",
-  currentlyLearning: ["System Design", "Advanced Backend", "AI/ML Integration"],
-  openSource: "GSSoC 2026 Contributor 🏆",
-  interests: ["AI + FinTech", "Scalable Systems", "Open Source"],
-  dsaSolved: "150+ problems and counting 💪",
-  goal: "Build products that make a real difference",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
-
----
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/📍-Mumbai%2C%20IN-6E57F7?style=for-the-badge&labelColor=1a1a2e" /><br/>
+      <sub><b>Location</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/💻-Full%20Stack%20Dev-6E57F7?style=for-the-badge&labelColor=1a1a2e" /><br/>
+      <sub><b>Role</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/🏆-GSSoC%202026-FF6B35?style=for-the-badge&labelColor=1a1a2e" /><br/>
+      <sub><b>Open Source</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/🧩-150%2B%20DSA-00C49A?style=for-the-badge&labelColor=1a1a2e" /><br/>
+      <sub><b>Problems Solved</b></sub>
+    </td>
+  </tr>
+</table>
+<br/>
 
 ## 🚀 Tech Stack
 
