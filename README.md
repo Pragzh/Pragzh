@@ -50,9 +50,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pragzh&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragzh&layout=compact&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=Pragzh&theme=tokyonight" />
 
